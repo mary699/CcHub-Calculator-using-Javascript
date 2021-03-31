@@ -23,12 +23,6 @@ buttons.map(button => {
 
                 break;
 
-
-
-
-
-
-
             default:
                 display.innerText += e.target.innerText;
         }
