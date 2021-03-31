@@ -1,6 +1,8 @@
+//  Declare your elements
 let display = document.getElementById('display');
 let buttons = Array.from(document.getElementsByClassName('button'));
 
+//call event.listener 
 buttons.map(button => {
     button.addEventListener('click', (e) => {
         switch (e.target.innerText) {
