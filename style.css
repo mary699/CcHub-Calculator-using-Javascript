@@ -34,10 +34,10 @@
     cursor: pointer;
 }
 #equal{
-    background-color: blue;
+    background-color: #2b2e4a;
     color: white;
 }
 .button:hover{
-    background-color: rgba(0, 0, 255, 0.487);
+    background-color:#31326f;
     color: white;
 }
